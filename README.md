@@ -1,4 +1,4 @@
-# Unity_TypedJsonSendReceivers
+# Unity_TypedJsonSendReceives
 
 Base classes for sending and receiving JSON along with data-type.
 
@@ -7,5 +7,5 @@ Base classes for sending and receiving JSON along with data-type.
 You can use Package Manager or import it directly.
 
 ```
-https://github.com/XJINE/Unity_TypedJsonSendReceivers.git?path=Assets/Packages/TypedJsonSendReceivers
+https://github.com/XJINE/Unity_TypedJsonSendReceives.git?path=Assets/Packages/TypedJsonSendReceives
 ```

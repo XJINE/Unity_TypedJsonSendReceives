@@ -1,6 +1,6 @@
 {
-    "name"       : "com.xjine.typed_json_send_receivers",
-    "displayName": "Typed Json Send Receivers", 
+    "name"       : "com.xjine.typed_json_send_receives",
+    "displayName": "Typed Json Send Receives", 
     "version"    : "1.0.0",
     "unity"      : "2022.3",
     "description": "Base classes for sending and receiving JSON along with data-type.",
