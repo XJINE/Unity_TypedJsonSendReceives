@@ -1,9 +1,7 @@
 {
     "name": "TypedJsonSendReceives",
     "rootNamespace": "",
-    "references": [
-        "GUID:9b4600c5a35d76c44b53cc6555e57bd0"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
