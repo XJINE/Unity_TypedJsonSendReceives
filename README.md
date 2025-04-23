@@ -9,3 +9,9 @@ You can use Package Manager or import it directly.
 ```
 https://github.com/XJINE/Unity_TypedJsonSendReceives.git?path=Assets/Packages/TypedJsonSendReceives
 ```
+
+### Dependencies
+
+This project use following resources.
+
+- https://github.com/XJINE/Unity_IPEndPointInfo
